@@ -13,4 +13,8 @@ Features:
 
 -Redefine color names and hex values for approximate color names
 
+Planned:
+
+-Tooltip outside of program to allow for lightweight viewing of colors without messing with windows
+
 Licensed under MIT license: feel free to fork, make PR's, whatever. If you use it and would like to see a new feature, please let me know!
