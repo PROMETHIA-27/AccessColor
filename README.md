@@ -1,5 +1,5 @@
 # AccessColor
-Colorblind assistance program for identifying colors
+Colorblind assistance program for identifying colors, built on WPF
 
 Features:
 
@@ -16,5 +16,7 @@ Features:
 Planned:
 
 -Tooltip outside of program to allow for lightweight viewing of colors without messing with windows
+
+-Migrate to UWP or Godot engine, to get more modern features and possibly expand to multiplatform support
 
 Licensed under MIT license: feel free to fork, make PR's, whatever. If you use it and would like to see a new feature, please let me know!
