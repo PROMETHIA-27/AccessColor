@@ -32,6 +32,10 @@ namespace AccessColor
         {
             this.InitializeComponent();
 
+            var dir = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\AccessColor\\";
+            if (!Directory.Exists(dir))
+                _ = Directory.CreateDirectory(dir);
+
             if (!ColorNamer.LoadColorData())
                 throw new Exception("Error loading color data!");
 

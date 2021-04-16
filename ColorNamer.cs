@@ -13,53 +13,25 @@ namespace AccessColor
 
         public static Boolean SaveColorData()
         {
-            var file = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\AccessColor\\colorSpace.txt";
-
-            var lines = new String[ColorSpace.Count];
-
-            var i = 0;
-            foreach (KeyValuePair<UInt32, String> pair in ColorSpace) //The :X is a neat way of specifying what format to .ToString() something with (Hexcode)
-                lines[i] = $"{pair.Key:X} {pair.Value}";
-
-            File.WriteAllLines(file, lines);
-
-            return true;
+            return PlainTextSerialization.SaveFromDictionary(
+                ColorSpace,
+                "colorSpace.txt",
+                (x) => x.ToString("X"),
+                (x) => x.ToString().Replace(' ', '_')
+            );
         }
 
         public static Boolean LoadColorData()
         {
             ColorSpace.Clear();
 
-            var dir = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\AccessColor\\";
-            var file = dir + "colorSpace.txt";
-
-            if (!Directory.Exists(dir))
-                _ = Directory.CreateDirectory(dir);
-
-            if (!File.Exists(file))
-                File.Copy(AppContext.BaseDirectory + "\\colorSpace.txt", file);
-
-            var lines = File.ReadAllLines(file);
-
-            foreach (var line in lines)
-            {
-                var slices = line.Split(' ');
-                var name = "";
-                UInt32? code = null;
-                foreach (var slice in slices)
-                {
-                    if (slice.Contains("0x"))
-                    {
-                        code = Convert.ToUInt32(slice, 16);
-                        break;
-                    }
-                    name += slice + " ";
-                }
-                name = name[..^1];
-                ColorSpace[code!.Value] = name;
-            }
-
-            return true;
+            return PlainTextSerialization.LoadToDictionary(
+                "colorSpace",
+                ColorSpace,
+                (s) => Convert.ToUInt32(s, 16),
+                (s) => s.Replace('_', ' '),
+                AppContext.BaseDirectory + "\\colorSpace.txt"
+            );
         }
 
         public static String GetClosestColorName(UInt32 colorBytes)

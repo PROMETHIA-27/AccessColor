@@ -21,9 +21,38 @@ namespace AccessColor
 
         static SettingsBlob()
         {
-            Shortcuts["LockGlass"] = new() { key = Key.L, isAltPressed = true };
-            Shortcuts["PickColor"] = new() { key = Key.P, isAltPressed = true };
+            _ = PlainTextSerialization.LoadToDictionary(
+                "shortcutSettings",
+                Shortcuts,
+                (name) => name,
+                (combo) =>
+                {
+                    var parts = combo.Split('-');
+                    return new()
+                    {
+                        key = (Key)Int32.Parse(parts[0]),
+                        isShiftPressed = Boolean.Parse(parts[1]),
+                        isCtrlPressed = Boolean.Parse(parts[2]),
+                        isAltPressed = Boolean.Parse(parts[3])
+                    };
+                },
+                AppContext.BaseDirectory + "\\shortcutSettings.txt"
+            );
+
+
+
+            AppDomain.CurrentDomain.ProcessExit += (sender, args) =>
+            {
+                _ = PlainTextSerialization.SaveFromDictionary(
+                    Shortcuts,
+                    "shortcutSettings",
+                    (name) => name,
+                    (combo) => $"{(Int32)combo.key:D}-{combo.isShiftPressed}-{combo.isCtrlPressed}-{combo.isAltPressed}"
+                );
+            };
         }
+
+        public static void Wake() { }
 
         public struct KeyCombo
         {

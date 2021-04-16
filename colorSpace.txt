@@ -1,337 +1,337 @@
-Absolute Zero 0x0048BA 
-Acid green 0xB0BF1A 
-Aero 0x7CB9E8 
-Aero blue 0xC0E8D5 
-African violet 0xB284BE 
-Air superiority blue 0x72A0C1 
-Alabaster 0xEDEAE0 
-Alice blue 0xF0F8FF 
-Alloy orange 0xC46210 
-Almond 0xEFDECD 
-Amaranth 0xE52B50 
-Amaranth (M&P) 0x9F2B68 
-Amaranth pink 0xF19CBB 
-Amaranth purple 0xAB274F 
-Amaranth red 0xD3212D 
-Amazon 0x3B7A57 
-Amber 0xFFBF00 
-Amber (SAE/ECE) 0xFF7E00 
-Amethyst 0x9966CC 
-Android green 0xA4C639 
-Antique brass 0xCD9575 
-Antique bronze 0x665D1E 
-Antique fuchsia 0x915C83 
-Antique ruby 0x841B2D 
-Antique white 0xFAEBD7 
-Ao (English) 0x008000 
-Apple green 0x8DB600 
-Apricot 0xFBCEB1 
-Aqua 0x00FFFF 
-Aquamarine 0x7FFFD4 
-Arctic lime 0xD0FF14 
-Army green 0x4B5320 
-Artichoke 0x8F9779 
-Arylide yellow 0xE9D66B 
-Ash gray 0xB2BEB5 
-Asparagus 0x87A96B 
-Atomic tangerine 0xFF9966 
-Auburn 0xA52A2A 
-Aureolin 0xFDEE00 
-Avocado 0x568203 
-Azure 0x007FFF 
-Azure (X11/web color) 0xF0FFFF 
-Baby blue 0x89CFF0 
-Baby blue eyes 0xA1CAF1 
-Baby pink 0xF4C2C2 
-Baby powder 0xFEFEFA 
-Baker-Miller pink 0xFF91AF 
-Banana Mania 0xFAE7B5 
-Barbie Pink 0xDA1884 
-Barn red 0x7C0A02 
-Battleship grey 0x848482 
-Beau blue 0xBCD4E6 
-Beaver 0x9F8170 
-Beige 0xF5F5DC 
-B'dazzled blue 0x2E5894 
-Big dip o’ruby 0x9C2542 
-Bisque 0xFFE4C4 
-Bistre 0x3D2B1F 
-Bistre brown 0x967117 
-Bitter lemon 0xCAE00D 
-Bitter lime 0xBFFF00 
-Bittersweet 0xFE6F5E 
-Bittersweet shimmer 0xBF4F51 
-Black 0x000000 
-Black bean 0x3D0C02 
-Black chocolate 0x1B1811 
-Black coffee 0x3B2F2F 
-Black coral 0x54626F 
-Black olive 0x3B3C36 
-Black Shadows 0xBFAFB2 
-Blanched almond 0xFFEBCD 
-Blast-off bronze 0xA57164 
-Bleu de France 0x318CE7 
-Blizzard blue 0xACE5EE 
-Blond 0xFAF0BE 
-Blood red 0x660000 
-Blue 0x0000FF 
-Blue (Crayola) 0x1F75FE 
-Blue (Munsell) 0x0093AF 
-Blue (NCS) 0x0087BD 
-Blue (Pantone) 0x0018A8 
-Blue (pigment) 0x333399 
-Blue (RYB) 0x0247FE 
-Blue bell 0xA2A2D0 
-Blue-gray 0x6699CC 
-Blue-green 0x0D98BA 
-Blue-green (color wheel) 0x064E40 
-Blue jeans 0x5DADEC 
-Blue sapphire 0x126180 
-Blue-violet 0x8A2BE2 
-Blue-violet (Crayola) 0x7366BD 
-Blue-violet (color wheel) 0x4D1A7F 
-Blue yonder 0x5072A7 
-Bluetiful 0x3C69E7 
-Blush 0xDE5D83 
-Bole 0x79443B 
-Bone 0xE3DAC9 
-Bottle green 0x006A4E 
-Brandy 0x87413F 
-Brick red 0xCB4154 
-Bright green 0x66FF00 
-Bright lilac 0xD891EF 
-Bright maroon 0xC32148 
-Bright navy blue 0x1974D2 
-Bright yellow (Crayola) 0xFFAA1D 
-Brilliant rose 0xFF55A3 
-Brink pink 0xFB607F 
-British racing green 0x004225 
-Bronze 0xCD7F32 
-Brown 0x88540B 
-Brown sugar 0xAF6E4D 
-Brunswick green 0x1B4D3E 
-Bud green 0x7BB661 
-Buff 0xFFC680 
-Burgundy 0x800020 
-Burlywood 0xDEB887 
-Burnished brown 0xA17A74 
-Burnt orange 0xCC5500 
-Burnt sienna 0xE97451 
-Burnt umber 0x8A3324 
-Byzantine 0xBD33A4 
-Byzantium 0x702963 
-Cadet 0x536872 
-Cadet blue 0x5F9EA0 
-Cadet blue (Crayola) 0xA9B2C3 
-Cadet grey 0x91A3B0 
-Cadmium green 0x006B3C 
-Cadmium orange 0xED872D 
-Cadmium red 0xE30022 
-Cadmium yellow 0xFFF600 
-Café au lait 0xA67B5B 
-Café noir 0x4B3621 
-Cambridge blue 0xA3C1AD 
-Camel 0xC19A6B 
-Cameo pink 0xEFBBCC 
-Canary 0xFFFF99 
-Canary yellow 0xFFEF00 
-Candy apple red 0xFF0800 
-Candy pink 0xE4717A 
-Capri 0x00BFFF 
-Caput mortuum 0x592720 
-Cardinal 0xC41E3A 
-Caribbean green 0x00CC99 
-Carmine 0x960018 
-Carmine (M&P) 0xD70040 
-Carnation pink 0xFFA6C9 
-Carnelian 0xB31B1B 
-Carolina blue 0x56A0D3 
-Carrot orange 0xED9121 
-Castleton green 0x00563F 
-Catawba 0x703642 
-Cedar Chest 0xC95A49 
-Celadon 0xACE1AF 
-Celadon blue 0x007BA7 
-Celadon green 0x2F847C 
-Celeste 0xB2FFFF 
-Celtic blue 0x246BCE 
-Cerise 0xDE3163 
-Cerulean 0x007BA7 
-Cerulean blue 0x2A52BE 
-Cerulean frost 0x6D9BC3 
-Cerulean (Crayola) 0x1DACD6 
-CG blue 0x007AA5 
-CG red 0xE03C31 
-Champagne 0xF7E7CE 
-Champagne pink 0xF1DDCF 
-Charcoal 0x36454F 
-Charleston green 0x232B2B 
-Charm pink 0xE68FAC 
-Chartreuse (traditional) 0xDFFF00 
-Chartreuse (web) 0x7FFF00 
-Cherry blossom pink 0xFFB7C5 
-Chestnut 0x954535 
-Chili red 0xE23D28 
-China pink 0xDE6FA1 
-China rose 0xA8516E 
-Chinese red 0xAA381E 
-Chinese violet 0x856088 
-Chinese yellow 0xFFB200 
-Chocolate (traditional) 0x7B3F00 
-Chocolate (web) 0xD2691E 
-Chocolate Cosmos 0x58111A 
-Chrome yellow 0xFFA700 
-Cinereous 0x98817B 
-Cinnabar 0xE34234 
-Cinnamon Satin 0xCD607E 
-Citrine 0xE4D00A 
-Citron 0x9FA91F 
-Claret 0x7F1734 
-Cobalt blue 0x0047AB 
-Cocoa brown 0xD2691E 
-Coffee 0x6F4E37 
-Columbia Blue 0xB9D9EB 
-Congo pink 0xF88379 
-Cool grey 0x8C92AC 
-Copper 0xB87333 
-Copper (Crayola) 0xDA8A67 
-Copper penny 0xAD6F69 
-Copper red 0xCB6D51 
-Copper rose 0x996666 
-Coquelicot 0xFF3800 
-Coral 0xFF7F50 
-Coral pink 0xF88379 
-Cordovan 0x893F45 
-Corn 0xFBEC5D 
-Cornell red 0xB31B1B 
-Cornflower blue 0x6495ED 
-Cornsilk 0xFFF8DC 
-Cosmic cobalt 0x2E2D88 
-Cosmic latte 0xFFF8E7 
-Coyote brown 0x81613C 
-Cotton candy 0xFFBCD9 
-Cream 0xFFFDD0 
-Crimson 0xDC143C 
-Crimson (UA) 0x9E1B32 
-Crystal 0xA7D8DE 
-Cultured 0xF5F5F5 
-Cyan 0x00FFFF 
-Cyan (process) 0x00B7EB 
-Cyber grape 0x58427C 
-Cyber yellow 0xFFD300 
-Cyclamen 0xF56FA1 
-Dark blue-gray 0x666699 
-Dark brown 0x654321 
-Dark byzantium 0x5D3954 
-Dark cornflower blue 0x26428B 
-Dark cyan 0x008B8B 
-Dark electric blue 0x536878 
-Dark goldenrod 0xB8860B 
-Dark green 0x013220 
-Dark green (X11) 0x006400 
-Dark jungle green 0x1A2421 
-Dark khaki 0xBDB76B 
-Dark lava 0x483C32 
-Dark liver 0x534B4F 
-Dark liver (horses) 0x543D37 
-Dark magenta 0x8B008B 
-Dark moss green 0x4A5D23 
-Dark olive green 0x556B2F 
-Dark orange 0xFF8C00 
-Dark orchid 0x9932CC 
-Dark pastel green 0x03C03C 
-Dark purple 0x301934 
-Dark red 0x8B0000 
-Dark salmon 0xE9967A 
-Dark sea green 0x8FBC8F 
-Dark sienna 0x3C1414 
-Dark sky blue 0x8CBED6 
-Dark slate blue 0x483D8B 
-Dark slate gray 0x2F4F4F 
-Dark spring green 0x177245 
-Dark turquoise 0x00CED1 
-Dark violet 0x9400D3 
-Dartmouth green 0x00703C 
-Davy's grey 0x555555 
-Deep cerise 0xDA3287 
-Deep champagne 0xFAD6A5 
-Deep chestnut 0xB94E48 
-Deep jungle green 0x004B49 
-Deep pink 0xFF1493 
-Deep saffron 0xFF9933 
-Deep sky blue 0x00BFFF 
-Deep Space Sparkle 0x4A646C 
-Deep taupe 0x7E5E60 
-Denim 0x1560BD 
-Denim blue 0x2243B6 
-Desert 0xC19A6B 
-Desert sand 0xEDC9AF 
-Dim gray 0x696969 
-Dodger blue 0x1E90FF 
-Dogwood rose 0xD71868 
-Drab 0x967117 
-Duke blue 0x00009C 
-Dutch white 0xEFDFBB 
-Earth yellow 0xE1A95F 
-Ebony 0x555D50 
-Ecru 0xC2B280 
-Eerie black 0x1B1B1B 
-Eggplant 0x614051 
-Eggshell 0xF0EAD6 
-Egyptian blue 0x1034A6 
-Eigengrau 0x16161D 
-Electric blue 0x7DF9FF 
-Electric green 0x00FF00 
-Electric indigo 0x6F00FF 
-Electric lime 0xCCFF00 
-Electric purple 0xBF00FF 
-Electric violet 0x8F00FF 
-Emerald 0x50C878 
-Eminence 0x6C3082 
-English green 0x1B4D3E 
-English lavender 0xB48395 
-English red 0xAB4B52 
-English vermillion 0xCC474B 
-English violet 0x563C5C 
-Erin 0x00FF40 
-Eton blue 0x96C8A2 
-Fallow 0xC19A6B 
-Falu red 0x801818 
-Fandango 0xB53389 
-Fandango pink 0xDE5285 
-Fashion fuchsia 0xF400A1 
-Fawn 0xE5AA70 
-Feldgrau 0x4D5D53 
-Fern green 0x4F7942 
-Field drab 0x6C541E 
-Fiery rose 0xFF5470 
-Firebrick 0xB22222 
-Fire engine red 0xCE2029 
-Fire opal 0xE95C4B 
-Flame 0xE25822 
-Flax 0xEEDC82 
-Flirt 0xA2006D 
-Floral white 0xFFFAF0 
-Fluorescent blue 0x15F4EE 
-Forest green (Crayola) 0x5FA777 
-Forest green (traditional) 0x014421 
-Forest green (web) 0x228B22 
-French beige 0xA67B5B 
-French bistre 0x856D4D 
-French blue 0x0072BB 
-French fuchsia 0xFD3F92 
-French lilac 0x86608E 
-French lime 0x9EFD38 
-French mauve 0xD473D4 
-French pink 0xFD6C9E 
-French raspberry 0xC72C48 
-French rose 0xF64A8A 
-French sky blue 0x77B5FE 
-French violet 0x8806CE 
-Frostbite 0xE936A7 
-Fuchsia 0xFF00FF 
-Fuchsia (Crayola) 0xC154C1 
-Fuchsia purple 0xCC397B 
-Fuchsia rose 0xC74375 
-Fulvous 0xE48400 
-Fuzzy Wuzzy 0x87421F 
+0x0048BA Absolute_Zero
+0xB0BF1A Acid_green
+0x7CB9E8 Aero
+0xC0E8D5 Aero_blue
+0xB284BE African_violet
+0x72A0C1 Air_superiority_blue
+0xEDEAE0 Alabaster
+0xF0F8FF Alice_blue
+0xC46210 Alloy_orange
+0xEFDECD Almond
+0xE52B50 Amaranth
+0x9F2B68 Amaranth_(M&P)
+0xF19CBB Amaranth_pink
+0xAB274F Amaranth_purple
+0xD3212D Amaranth_red
+0x3B7A57 Amazon
+0xFFBF00 Amber
+0xFF7E00 Amber_(SAE/ECE)
+0x9966CC Amethyst
+0xA4C639 Android_green
+0xCD9575 Antique_brass
+0x665D1E Antique_bronze
+0x915C83 Antique_fuchsia
+0x841B2D Antique_ruby
+0xFAEBD7 Antique_white
+0x008000 Ao_(English)
+0x8DB600 Apple_green
+0xFBCEB1 Apricot
+0x00FFFF Aqua
+0x7FFFD4 Aquamarine
+0xD0FF14 Arctic_lime
+0x4B5320 Army_green
+0x8F9779 Artichoke
+0xE9D66B Arylide_yellow
+0xB2BEB5 Ash_gray
+0x87A96B Asparagus
+0xFF9966 Atomic_tangerine
+0xA52A2A Auburn
+0xFDEE00 Aureolin
+0x568203 Avocado
+0x007FFF Azure
+0xF0FFFF Azure_(X11/web_color)
+0x89CFF0 Baby_blue
+0xA1CAF1 Baby_blue_eyes
+0xF4C2C2 Baby_pink
+0xFEFEFA Baby_powder
+0xFF91AF Baker-Miller_pink
+0xFAE7B5 Banana_Mania
+0xDA1884 Barbie_Pink
+0x7C0A02 Barn_red
+0x848482 Battleship_grey
+0xBCD4E6 Beau_blue
+0x9F8170 Beaver
+0xF5F5DC Beige
+0x2E5894 B'dazzled_blue
+0x9C2542 Big_dip_o’ruby
+0xFFE4C4 Bisque
+0x3D2B1F Bistre
+0x967117 Bistre_brown
+0xCAE00D Bitter_lemon
+0xBFFF00 Bitter_lime
+0xFE6F5E Bittersweet
+0xBF4F51 Bittersweet_shimmer
+0x000000 Black
+0x3D0C02 Black_bean
+0x1B1811 Black_chocolate
+0x3B2F2F Black_coffee
+0x54626F Black_coral
+0x3B3C36 Black_olive
+0xBFAFB2 Black_Shadows
+0xFFEBCD Blanched_almond
+0xA57164 Blast-off_bronze
+0x318CE7 Bleu_de_France
+0xACE5EE Blizzard_blue
+0xFAF0BE Blond
+0x660000 Blood_red
+0x0000FF Blue
+0x1F75FE Blue_(Crayola)
+0x0093AF Blue_(Munsell)
+0x0087BD Blue_(NCS)
+0x0018A8 Blue_(Pantone)
+0x333399 Blue_(pigment)
+0x0247FE Blue_(RYB)
+0xA2A2D0 Blue_bell
+0x6699CC Blue-gray
+0x0D98BA Blue-green
+0x064E40 Blue-green_(color_wheel)
+0x5DADEC Blue_jeans
+0x126180 Blue_sapphire
+0x8A2BE2 Blue-violet
+0x7366BD Blue-violet_(Crayola)
+0x4D1A7F Blue-violet_(color_wheel)
+0x5072A7 Blue_yonder
+0x3C69E7 Bluetiful
+0xDE5D83 Blush
+0x79443B Bole
+0xE3DAC9 Bone
+0x006A4E Bottle_green
+0x87413F Brandy
+0xCB4154 Brick_red
+0x66FF00 Bright_green
+0xD891EF Bright_lilac
+0xC32148 Bright_maroon
+0x1974D2 Bright_navy_blue
+0xFFAA1D Bright_yellow_(Crayola)
+0xFF55A3 Brilliant_rose
+0xFB607F Brink_pink
+0x004225 British_racing_green
+0xCD7F32 Bronze
+0x88540B Brown
+0xAF6E4D Brown_sugar
+0x1B4D3E Brunswick_green
+0x7BB661 Bud_green
+0xFFC680 Buff
+0x800020 Burgundy
+0xDEB887 Burlywood
+0xA17A74 Burnished_brown
+0xCC5500 Burnt_orange
+0xE97451 Burnt_sienna
+0x8A3324 Burnt_umber
+0xBD33A4 Byzantine
+0x702963 Byzantium
+0x536872 Cadet
+0x5F9EA0 Cadet_blue
+0xA9B2C3 Cadet_blue_(Crayola)
+0x91A3B0 Cadet_grey
+0x006B3C Cadmium_green
+0xED872D Cadmium_orange
+0xE30022 Cadmium_red
+0xFFF600 Cadmium_yellow
+0xA67B5B Café_au_lait
+0x4B3621 Café_noir
+0xA3C1AD Cambridge_blue
+0xC19A6B Camel
+0xEFBBCC Cameo_pink
+0xFFFF99 Canary
+0xFFEF00 Canary_yellow
+0xFF0800 Candy_apple_red
+0xE4717A Candy_pink
+0x00BFFF Capri
+0x592720 Caput_mortuum
+0xC41E3A Cardinal
+0x00CC99 Caribbean_green
+0x960018 Carmine
+0xD70040 Carmine_(M&P)
+0xFFA6C9 Carnation_pink
+0xB31B1B Carnelian
+0x56A0D3 Carolina_blue
+0xED9121 Carrot_orange
+0x00563F Castleton_green
+0x703642 Catawba
+0xC95A49 Cedar_Chest
+0xACE1AF Celadon
+0x007BA7 Celadon_blue
+0x2F847C Celadon_green
+0xB2FFFF Celeste
+0x246BCE Celtic_blue
+0xDE3163 Cerise
+0x007BA7 Cerulean
+0x2A52BE Cerulean_blue
+0x6D9BC3 Cerulean_frost
+0x1DACD6 Cerulean_(Crayola)
+0x007AA5 CG_blue
+0xE03C31 CG_red
+0xF7E7CE Champagne
+0xF1DDCF Champagne_pink
+0x36454F Charcoal
+0x232B2B Charleston_green
+0xE68FAC Charm_pink
+0xDFFF00 Chartreuse_(traditional)
+0x7FFF00 Chartreuse_(web)
+0xFFB7C5 Cherry_blossom_pink
+0x954535 Chestnut
+0xE23D28 Chili_red
+0xDE6FA1 China_pink
+0xA8516E China_rose
+0xAA381E Chinese_red
+0x856088 Chinese_violet
+0xFFB200 Chinese_yellow
+0x7B3F00 Chocolate_(traditional)
+0xD2691E Chocolate_(web)
+0x58111A Chocolate_Cosmos
+0xFFA700 Chrome_yellow
+0x98817B Cinereous
+0xE34234 Cinnabar
+0xCD607E Cinnamon_Satin
+0xE4D00A Citrine
+0x9FA91F Citron
+0x7F1734 Claret
+0x0047AB Cobalt_blue
+0xD2691E Cocoa_brown
+0x6F4E37 Coffee
+0xB9D9EB Columbia_Blue
+0xF88379 Congo_pink
+0x8C92AC Cool_grey
+0xB87333 Copper
+0xDA8A67 Copper_(Crayola)
+0xAD6F69 Copper_penny
+0xCB6D51 Copper_red
+0x996666 Copper_rose
+0xFF3800 Coquelicot
+0xFF7F50 Coral
+0xF88379 Coral_pink
+0x893F45 Cordovan
+0xFBEC5D Corn
+0xB31B1B Cornell_red
+0x6495ED Cornflower_blue
+0xFFF8DC Cornsilk
+0x2E2D88 Cosmic_cobalt
+0xFFF8E7 Cosmic_latte
+0x81613C Coyote_brown
+0xFFBCD9 Cotton_candy
+0xFFFDD0 Cream
+0xDC143C Crimson
+0x9E1B32 Crimson_(UA)
+0xA7D8DE Crystal
+0xF5F5F5 Cultured
+0x00FFFF Cyan
+0x00B7EB Cyan_(process)
+0x58427C Cyber_grape
+0xFFD300 Cyber_yellow
+0xF56FA1 Cyclamen
+0x666699 Dark_blue-gray
+0x654321 Dark_brown
+0x5D3954 Dark_byzantium
+0x26428B Dark_cornflower_blue
+0x008B8B Dark_cyan
+0x536878 Dark_electric_blue
+0xB8860B Dark_goldenrod
+0x013220 Dark_green
+0x006400 Dark_green_(X11)
+0x1A2421 Dark_jungle_green
+0xBDB76B Dark_khaki
+0x483C32 Dark_lava
+0x534B4F Dark_liver
+0x543D37 Dark_liver_(horses)
+0x8B008B Dark_magenta
+0x4A5D23 Dark_moss_green
+0x556B2F Dark_olive_green
+0xFF8C00 Dark_orange
+0x9932CC Dark_orchid
+0x03C03C Dark_pastel_green
+0x301934 Dark_purple
+0x8B0000 Dark_red
+0xE9967A Dark_salmon
+0x8FBC8F Dark_sea_green
+0x3C1414 Dark_sienna
+0x8CBED6 Dark_sky_blue
+0x483D8B Dark_slate_blue
+0x2F4F4F Dark_slate_gray
+0x177245 Dark_spring_green
+0x00CED1 Dark_turquoise
+0x9400D3 Dark_violet
+0x00703C Dartmouth_green
+0x555555 Davy's_grey
+0xDA3287 Deep_cerise
+0xFAD6A5 Deep_champagne
+0xB94E48 Deep_chestnut
+0x004B49 Deep_jungle_green
+0xFF1493 Deep_pink
+0xFF9933 Deep_saffron
+0x00BFFF Deep_sky_blue
+0x4A646C Deep_Space_Sparkle
+0x7E5E60 Deep_taupe
+0x1560BD Denim
+0x2243B6 Denim_blue
+0xC19A6B Desert
+0xEDC9AF Desert_sand
+0x696969 Dim_gray
+0x1E90FF Dodger_blue
+0xD71868 Dogwood_rose
+0x967117 Drab
+0x00009C Duke_blue
+0xEFDFBB Dutch_white
+0xE1A95F Earth_yellow
+0x555D50 Ebony
+0xC2B280 Ecru
+0x1B1B1B Eerie_black
+0x614051 Eggplant
+0xF0EAD6 Eggshell
+0x1034A6 Egyptian_blue
+0x16161D Eigengrau
+0x7DF9FF Electric_blue
+0x00FF00 Electric_green
+0x6F00FF Electric_indigo
+0xCCFF00 Electric_lime
+0xBF00FF Electric_purple
+0x8F00FF Electric_violet
+0x50C878 Emerald
+0x6C3082 Eminence
+0x1B4D3E English_green
+0xB48395 English_lavender
+0xAB4B52 English_red
+0xCC474B English_vermillion
+0x563C5C English_violet
+0x00FF40 Erin
+0x96C8A2 Eton_blue
+0xC19A6B Fallow
+0x801818 Falu_red
+0xB53389 Fandango
+0xDE5285 Fandango_pink
+0xF400A1 Fashion_fuchsia
+0xE5AA70 Fawn
+0x4D5D53 Feldgrau
+0x4F7942 Fern_green
+0x6C541E Field_drab
+0xFF5470 Fiery_rose
+0xB22222 Firebrick
+0xCE2029 Fire_engine_red
+0xE95C4B Fire_opal
+0xE25822 Flame
+0xEEDC82 Flax
+0xA2006D Flirt
+0xFFFAF0 Floral_white
+0x15F4EE Fluorescent_blue
+0x5FA777 Forest_green_(Crayola)
+0x014421 Forest_green_(traditional)
+0x228B22 Forest_green_(web)
+0xA67B5B French_beige
+0x856D4D French_bistre
+0x0072BB French_blue
+0xFD3F92 French_fuchsia
+0x86608E French_lilac
+0x9EFD38 French_lime
+0xD473D4 French_mauve
+0xFD6C9E French_pink
+0xC72C48 French_raspberry
+0xF64A8A French_rose
+0x77B5FE French_sky_blue
+0x8806CE French_violet
+0xE936A7 Frostbite
+0xFF00FF Fuchsia
+0xC154C1 Fuchsia_(Crayola)
+0xCC397B Fuchsia_purple
+0xC74375 Fuchsia_rose
+0xE48400 Fulvous
+0x87421F Fuzzy_Wuzzy

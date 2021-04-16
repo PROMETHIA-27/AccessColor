@@ -19,7 +19,22 @@ namespace AccessColor
     /// </summary>
     public partial class SettingsWindow : Window
     {
-        public SettingsWindow() => this.InitializeComponent();
+        public SettingsWindow()
+        {
+            this.InitializeComponent();
+            SettingsBlob.Wake();
+
+            LockGlassButton.Content =
+                (SettingsBlob.Shortcuts["LockGlass"].isShiftPressed ? "Shift + " : "") +
+                (SettingsBlob.Shortcuts["LockGlass"].isCtrlPressed ? "Ctrl + " : "") +
+                (SettingsBlob.Shortcuts["LockGlass"].isAltPressed ? "Alt + " : "") +
+                SettingsBlob.Shortcuts["LockGlass"].key.ToString();
+            PickColorButton.Content =
+                (SettingsBlob.Shortcuts["PickColor"].isShiftPressed ? "Shift + " : "") +
+                (SettingsBlob.Shortcuts["PickColor"].isCtrlPressed ? "Ctrl + " : "") +
+                (SettingsBlob.Shortcuts["PickColor"].isAltPressed ? "Alt + " : "") +
+                SettingsBlob.Shortcuts["PickColor"].key.ToString();
+        }
 
         private Button? activeShortcutButton;
         private String? activeShortcutName;
