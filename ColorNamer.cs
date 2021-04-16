@@ -37,7 +37,7 @@ namespace AccessColor
                 _ = Directory.CreateDirectory(dir);
 
             if (!File.Exists(file))
-                File.Create(file).Close();
+                File.Copy(AppContext.BaseDirectory + "\\colorSpace.txt", file);
 
             var lines = File.ReadAllLines(file);
 
