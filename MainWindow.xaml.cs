@@ -153,8 +153,8 @@ namespace AccessColor
         {
             NameTextBox.Text = $"Name: {ColorNamer.GetClosestColorName(col.To32Bit())}";
             RGBTextBox.Text = $"RGB: {col.R}, {col.G}, {col.B}";
-            //Converts to hex and removes last 2 chars (Both ff, for alpha 255)
-            HexTextBox.Text = "Hex: " + col.To32Bit().ToString("X")[0..^2]; 
+            //Converts to hex and removes first 2 chars (Both ff, for alpha 255)
+            HexTextBox.Text = "Hex: " + col.To32Bit().ToString("X")[2..^0];
         }
     }
 }
