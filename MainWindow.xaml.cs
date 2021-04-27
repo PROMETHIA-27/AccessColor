@@ -44,10 +44,9 @@ namespace AccessColor
             GlassImage.Source = writeBmp;
             
             //Give it a second to start, hopefully prevent any weird glitches with launching threads before init is complete
-            this._screenReaderTimer = new(this.ReadScreenAndSend, null, 1000, Timeout.Infinite);
+            this._updateTimer = new((state) => this.Update(), null, 1000, Timeout.Infinite);
 
-            PromethiaInputManager.KeyPressEvent += this.LockGlassInputCallback;
-            PromethiaInputManager.KeyPressEvent += this.PickColorInputCallback;
+            PromethiaInputManager.KeyPressEvent += this.InputCallback;
 
             this.SettingsWin.Closing += (sender, args) =>
             {
@@ -57,13 +56,24 @@ namespace AccessColor
             };
         }
 
-        readonly Timer _screenReaderTimer;
+        readonly Timer _updateTimer;
+        public TooltipWindow ToolTipWindow { get; } = new();
+        protected void Update()
+        {
+            this.ReadScreenAndSend();
+
+
+
+            if (!this._disposingTimer)
+                _ = this._updateTimer.Change(16, Timeout.Infinite);
+        }
+
         volatile Boolean _disposingTimer;
         volatile Boolean _glassLocked;
         volatile Boolean _pickColor;
         Bitmap screenBmp = new(1, 1);
         readonly WriteableBitmap writeBmp = new(1, 1, 100, 100, PixelFormats.Bgra32, BitmapPalettes.Halftone256);
-        private void ReadScreenAndSend(Object? state) // Actually works on multiple monitors, I didn't even have to do anything
+        private void ReadScreenAndSend() // Actually works on multiple monitors, I didn't even have to do anything
         {
             //This should be the only access to _zoomScale in this function!
             //Later accesses could introduce a race condition
@@ -104,9 +114,6 @@ namespace AccessColor
                     this.PickColor(bmpBuffer.ReadPixelInfo(4 * zoomedRect.Width, zoomedRect.Width / 2, zoomedRect.Height / 2));
                 }
             });
-
-            if (!this._disposingTimer)
-                _ = _screenReaderTimer.Change(33, Timeout.Infinite);
         }
 
         private void Window_Closing(Object sender, CancelEventArgs e)
@@ -114,8 +121,8 @@ namespace AccessColor
             using (ManualResetEvent disposeHandle = new(false))
             {
                 _disposingTimer = true;
-                _ = this._screenReaderTimer.Change(Timeout.Infinite, Timeout.Infinite);
-                _screenReaderTimer.Dispose();
+                _ = this._updateTimer.Change(Timeout.Infinite, Timeout.Infinite);
+                _updateTimer.Dispose();
             }
             _closing = true;
             this.SettingsWin.Close();
@@ -133,17 +140,13 @@ namespace AccessColor
             this.SettingsWin.Show();
         }
 
-        private void LockGlassInputCallback(Key key)
+        private void InputCallback(Key key)
         {
             if (SettingsBlob.KeyComboIsPressed(SettingsBlob.Shortcuts["LockGlass"]))
             {
                 _glassLocked = !_glassLocked;
             }
-        }
-
-        private void PickColorInputCallback(Key key)
-        {
-            if (SettingsBlob.KeyComboIsPressed(SettingsBlob.Shortcuts["PickColor"]))
+            else if (SettingsBlob.KeyComboIsPressed(SettingsBlob.Shortcuts["PickColor"]))
             {
                 _pickColor = true;
             }
